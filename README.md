@@ -8,6 +8,22 @@ This repository contains code which was developed for BMS college fest 2019. The
 
 ---
 
+## Running Instructions
+
+#### Install node
+```
+https://nodejs.org/en/download/package-manager/
+```
+
+#### Run locally
+1. Clone or download this repository
+2. Open a terminal in the root of the project
+3. Execute ```node index.js``` in the terminal
+4. Navigate to ```http://localhost:8000/``` or ```http://127.0.0.1:8000/``` in your browser
+
+
+---
+
 ## Home Page
 <img src="https://github.com/niteshsrivats/Utsav-2019/blob/images/images/Home%20-%201-min.png">
 <img src="https://github.com/niteshsrivats/Utsav-2019/blob/images/images/Home%20-%202-min.png">
