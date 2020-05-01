@@ -14,5 +14,7 @@ This repository contains code which was developed for BMS college fest 2019. The
 <img src="https://github.com/niteshsrivats/Utsav-2019/blob/images/images/Home%20-%203-min.png">
 <img src="https://github.com/niteshsrivats/Utsav-2019/blob/images/images/Home%20-%204-min.png">
 
+---
+
 ## Schedule Page
 <img src="https://github.com/niteshsrivats/Utsav-2019/blob/images/images/Schedule-min.png">
